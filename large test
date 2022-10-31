@@ -1,0 +1,92 @@
+These results are part of the fier spread algorithm that counted all 8 neighbors
+
+Testing complete. Full runtime: 1 day, 4:05:34.909299. Beginning analysis
+Agent 1 results at maze size 51x51
+Success rates
+q
+0.025    0.702727
+0.050    0.330000
+0.075    0.018000
+Average runtime
+q
+0.025    0.321374
+0.050    0.237088
+0.075    0.170501
+Agent 1 results at maze size 75x75
+Success rates
+q
+0.025    0.763636
+0.050    0.319091
+0.075    0.004000
+Average runtime
+q
+0.025    1.073616
+0.050    0.742873
+0.075    0.513856
+Agent 2 results at maze size 51x51
+Success rates
+q
+0.025    0.941818
+0.050    0.414545
+0.075    0.019000
+Average runtime
+q
+0.025    0.392071
+0.050    0.324634
+0.075    0.232927
+Agent 2 results at maze size 75x75
+Success rates
+q
+0.025    0.951818
+0.050    0.460000
+0.075    0.009000
+Average runtime
+q
+0.025    2.039193
+0.050    2.072080
+0.075    4.969631
+Agent 3 results at maze size 51x51
+Success rates
+q
+0.025    0.916364
+0.050    0.387273
+0.075    0.020000
+Average runtime
+q
+0.025    10.804141
+0.050     0.802230
+0.075     0.716400
+Agent 3 results at maze size 75x75
+Success rates
+q
+0.025    0.953636
+0.050    0.437273
+0.075    0.004000
+Average runtime
+q
+0.025    8.775066
+0.050    4.112414
+0.075    3.050780
+Agent 4 results at maze size 51x51
+Success rates
+q
+0.025    0.941
+0.050    0.439
+0.075    0.020
+Average runtime
+q
+0.025    0.402677
+0.050    0.365949
+0.075    1.071056
+Agent 4 results at maze size 75x75
+Success rates
+q
+0.025    0.956
+0.050    0.511
+0.075    0.012
+Average runtime
+q
+0.025    10.105835
+0.050     1.149965
+0.075     1.099799
+Process finished with exit code 0
